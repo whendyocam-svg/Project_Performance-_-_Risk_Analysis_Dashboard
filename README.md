@@ -73,15 +73,15 @@ Power Query (Para verificación de formatos en los datos)
 Modelado Dimensional (Esquema Estrella)
 
 ## Vista Previa del Dashboard
+
 ![Dashboard_General_1](imagenes/Overview.png)
+
 ![Dashboard_General_2](imagenes/Project_Performance.png)
+
 ![Dashboard_General_3](imagenes/Risk_Analistys.png)
 
 
 ## KPIs
-![KPIs](imagenes/KPIS2.png)
-![KPIs](imagenes/KPIS_1.png)
----
 
 
 ## Autora
