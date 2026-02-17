@@ -33,6 +33,8 @@ dim_status
 dim_priority
 dim_date
 dim_region
+![Dashboard_General_5](imagenes/Model_Star.png)
+
 
 Este enfoque permite segmentar y analizar la información de forma eficiente desde múltiples perspectivas.
 
@@ -83,6 +85,7 @@ Modelado Dimensional (Esquema Estrella)
 
 ## KPIs
 
+![Dashboard_General_4](imagenes/KPIS_PROJECTS.png)
 
 ## Autora
 
