@@ -65,12 +65,24 @@ Existen incrementos en tareas retrasadas en determinados trimestres.
 Algunos proyectos concentran un mayor número de retrasos, representando mayor riesgo.
 
 ## Herramientas Utilizadas
-Dataset extraida de Kaglee
+Dataset extraido de Kaglee
 SQL (Para limpieza de dataset y para construcción de modelo de estrella)
 Microsoft Power BI (Para visualización de resultados)
 DAX (Para construcción de medidas)
 Power Query (Para verificación de formatos en los datos)
 Modelado Dimensional (Esquema Estrella)
+
+## Vista Previa del Dashboard
+![Dashboard_General_1](imagenes/Executive_Overview.png)
+
+![Dashboard_General_2](imagenes/Profitability.png)
+
+
+## KPIs
+![KPIs](imagenes/KPIS2.png)
+![KPIs](imagenes/KPIS_1.png)
+---
+
 
 ## Autora
 
